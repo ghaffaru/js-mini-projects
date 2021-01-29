@@ -62,4 +62,4 @@ let menu = {
   menu.addDishToCourse('desserts', 'Blah', 10);
   
   let meal = menu.generateRandomMeal();
-  console.log(meal);git 
+  console.log(meal);
